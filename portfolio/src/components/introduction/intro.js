@@ -27,10 +27,15 @@ const Intro = () => {
 
                         </div>
                     </div>
+                    <div className='i-desc'>
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    </div>
                     
                 </div>
             </div>
-            <div className="i-right">RIGHT</div>
+            <div className="i-right">
+                <img src='' alt='' className='i-img' />
+            </div>
         </div>
     )
 }
