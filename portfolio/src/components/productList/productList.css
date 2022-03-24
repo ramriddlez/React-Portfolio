@@ -17,6 +17,9 @@
     margin: 20px 0x;
 }
 .pl-list{
+    /* background-color: red; */
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
