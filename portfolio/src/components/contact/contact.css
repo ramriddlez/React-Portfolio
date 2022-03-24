@@ -74,8 +74,23 @@ textarea{
 button{
     border: none;
     padding: 15px;
-    background-color: aqua;
+    background-color: rgb(29, 121, 29);
     font-weight: 500;
     cursor: pointer;
+    color: aliceblue;
+  
 
+}
+button:hover,
+button:focus {
+    background: #0053ba;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.99);
 }
