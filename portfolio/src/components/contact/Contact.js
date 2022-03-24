@@ -2,18 +2,20 @@ import './contact.css'
 import Github from'../../img/GitHub-Logo.png';
 import LinkedIn from'../../img/lnkdin.png';
 import Email from'../../img/email.png';
-import React, { useRef } from 'react';
+import React, { useRef, useState} from 'react';
 import emailjs from '@emailjs/browser';
 import{ init } from '@emailjs/browser';
 
 const Contact = () => {
     const form = useRef();
+    const [done, setDone] = useState(false);
     const sendEmail = (e) => {
         e.preventDefault();
 
         emailjs.sendForm('service_gwz5828', 'template_n2pes5o', form.current, 'Scva3APQGmtzGI29h')
         .then((result) => {
             console.log(result.text);
+            setDone(true)
         }, (error) => {
             console.log(error.text);
         });
@@ -54,6 +56,7 @@ const Contact = () => {
                         <input type='text' placeholder='Email' name='user_email' />
                         <textarea rows="5" placeholder='Type your message here' name='user_message' />
                         <button>Submit</button>
+                        {done && 'Thank you for your E-mail!'}
                     </form>
 
                 </div>
