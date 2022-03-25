@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0aaa2f30.css",
+    "main.js": "/React-Portfolio/static/js/main.00a17aa3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/duke.jpeg": "/React-Portfolio/static/media/duke.c41786e2a13c1cb95ea8.jpeg",
+    "static/media/me.jpg": "/React-Portfolio/static/media/me.106ef7eb82284989cdaf.jpg",
+    "static/media/sun.png": "/React-Portfolio/static/media/sun.55179bc6d99e283a7205.png",
+    "static/media/GitHub-Logo.png": "/React-Portfolio/static/media/GitHub-Logo.05525cd9027955dbe054.png",
+    "static/media/ghe.png": "/React-Portfolio/static/media/ghe.1b6bd0e4b6626baba753.png",
+    "static/media/lnkdin.png": "/React-Portfolio/static/media/lnkdin.f291abfec32f0f22ed78.png",
+    "static/media/email.png": "/React-Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/award.jpeg": "/React-Portfolio/static/media/award.ed17f7ef402c85f97f77.jpeg",
+    "static/media/moon.png": "/React-Portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0aaa2f30.css.map": "/React-Portfolio/static/css/main.0aaa2f30.css.map",
+    "main.00a17aa3.js.map": "/React-Portfolio/static/js/main.00a17aa3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aaa2f30.css",
+    "static/js/main.00a17aa3.js"
+  ]
+}
