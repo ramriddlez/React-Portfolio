@@ -33,7 +33,7 @@ const Contact = () => {
                                 alt=''
                                 className='c-icon-1'
                             />
-                            <a href="https://github.com/ramriddlez">source code!</a>
+                            <a href="https://github.com/ramriddlez">View my Github Portfolio!</a>
 
                         </div>
                         <div className='c-info-item'>
