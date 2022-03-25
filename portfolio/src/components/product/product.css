@@ -14,7 +14,7 @@
     background-color: rgb(136, 131, 131);
     align-items: center;
     position: sticky;
-    z-index: 4;
+    z-index: 1;
 }
 .p-circle{
     width:8px;
@@ -23,9 +23,21 @@
     border-radius: 50%;
     margin: 3px;
 }
+.p-circle-1{
+    overflow: hidden;
+    height: 25px;
+    position: sticky;
+    left: 350px;
+    padding-bottom: 20px;
+    font-size: small;
+    font-weight: bold;
+    text-decoration:none;
+
+    border-radius: 20%;
+}
 .p-img{
     width: 100%;
-    transition: all 4s ease-in-out ;
+    transition: all 3s ease-in-out ;
 }
 
 .p:hover .p-img{

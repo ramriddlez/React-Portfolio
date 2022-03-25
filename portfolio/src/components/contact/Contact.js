@@ -46,7 +46,7 @@ const Contact = () => {
                             <a href="https://www.linkedin.com/in/ramandeep-singh-29b544230/">Connect with me!</a>
                         </div>
                         <div className='btn'>
-                    <a href="https://pdfhost.io/v/ry9.viEfy_Copy_of_resume_2" target=" _blank" rel="noopener noreferrer" ><button>Resume</button></a>
+                    <a href="https://pdfhost.io/v/ry9.viEfy_Copy_of_resume_2" target=" _blank" rel="noopener noreferrer" ><button>View Resume!</button></a>
                     </div>
 
                     </div>
