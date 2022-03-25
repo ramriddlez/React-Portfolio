@@ -14,7 +14,7 @@ const Intro = () => {
                                 Software Developer
                             </div>
                             <div className='i-title-item'>
-                                Web Developer
+                                Fullstack Engineer
                             </div>
                             <div className='i-title-item'>
                                 Financial Technology
@@ -23,7 +23,7 @@ const Intro = () => {
                                 Content Creator
                             </div>
                             <div className='i-title-item'>
-                                placeholder
+                                Lifelong Learner
                             </div>
 
                         </div>
