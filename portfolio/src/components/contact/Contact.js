@@ -34,15 +34,17 @@ const Contact = () => {
                             alt=''
                             className='c-icon-1'
                             />
-                            @ramriddlez
+                            <a href="https://github.com/ramriddlez">source code!</a>
+
                         </div>
                         <div className='c-info-item'>
                             <img className='c-icon' src={Email} alt='' />
                             contact@me.com
                         </div>
                         <div className='c-info-item'>
+                            
                             <img className='c-icon' src={LinkedIn} alt='' />
-                            https://www.linkedin.com/in/ramandeep-singh-29b544230/
+                            <a href="https://www.linkedin.com/in/ramandeep-singh-29b544230/">Connect with me!</a>
                         </div>
                     </div>
                 </div>
