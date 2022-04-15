@@ -16,7 +16,8 @@
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color:darksalmon
+    background-color: darkgreen;
+    opacity: 70%;
 }
 .a-right{
     flex: 1;
