@@ -1,5 +1,5 @@
 import './intro.css'
-import Me from '../../img/me.jpg'
+import Me from '../../img/me2.png'
 
 const Intro = () => {
     return (
@@ -29,7 +29,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className='i-desc'>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    My ability to learn and master skills is unparalleled. The energy and burning desire within to succeed is what you are looking to add to your team. Lets connect!
                     </p>
                     
                 </div>
@@ -94,7 +94,7 @@ const Intro = () => {
                 <div className='i-bg'>
                     
                 </div>
-                <img src={Me} alt='gigachad' className='i-img' />
+                <img src={Me} alt='Ramandeep Singh' className='i-img' />
             </div>
         </div>
     )

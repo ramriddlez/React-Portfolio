@@ -5,7 +5,7 @@ const ProductList = () => {
     return (
         <div className='pl'>
             <div className='pl-texts'>
-                <h1 className='pl-title'> Create & Inpire. Its Ramriddlez</h1>
+                <h1 className='pl-title'> Create & Inspire. Its Ramriddlez</h1>
                 <p className='pl-desc'> 
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
