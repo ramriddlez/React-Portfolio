@@ -5,14 +5,14 @@ const ProductList = () => {
     return (
         <div className='pl'>
             <div className='pl-texts'>
-                <h1 className='pl-title'> Create & Inspire. Its Ramriddlez</h1>
+                <h1 className='pl-title'> Projects 👨🏻‍💻📈 </h1>
                 <p className='pl-desc'> 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Enjoy the projects below to showcase my FULL STACK development skills; I am consistently improving and adding to this list so please come back often!
                 </p>
             </div>
             <div className='pl-list'>
                 {products.map((item) => (
-                    <Product key={item.id} img={item.img} link ={item.link}/>
+                    <Product key={item.id} sourcecode={item.sourcecode} img={item.img} link ={item.link}/>
                 ))}
                
             </div>

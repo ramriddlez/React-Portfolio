@@ -38,12 +38,12 @@ const Contact = () => {
                         </div>
                         <div className='c-info-item'>
                             <img className='c-icon' src={Email} alt='' />
-                            contact@me.com
+                           <a href = 'mailto: ramankangz@outlook.com'> Email me!</a>
                         </div>
                         <div className='c-info-item'>
 
                             <img className='c-icon' src={LinkedIn} alt='' />
-                            <a href="https://www.linkedin.com/in/ramandeep-singh-29b544230/">Connect with me!</a>
+                            <a href="https://www.linkedin.com/in/skilledsoftwaredev">Connect with me!</a>
                         </div>
                         <div className='btn'>
                     <a href="https://pdfhost.io/v/ry9.viEfy_Copy_of_resume_2" target=" _blank" rel="noopener noreferrer" ><button>View Resume!</button></a>
@@ -53,7 +53,9 @@ const Contact = () => {
                 </div>
                 <div className='c-right'>
                     <p className='c-desc'>
-                        e Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié
+                        Lifelong learning is the skill I possess and will allow for YOUR team to continuously remain on the cutting EDGE of technological advancements. <br></br>
+                        <br></br>
+                        If you are looking to bring in a motivated, disciplined, focused, <strong>TEAM PLAYER </strong>, then look no further. Contact me NOW! 🤝🏼⭐
                     </p>
                     <form ref={form} onSubmit={sendEmail}>
                         <input type='text' placeholder='Name' name='user_name' />
@@ -61,7 +63,7 @@ const Contact = () => {
                         <input type='text' placeholder='Email' name='user_email' />
                         <textarea rows="5" placeholder='Type your message here' name='user_message' />
                         <button>Submit</button>
-                        {done && 'Thank you for your E-mail!'}
+                        {done && '     Thank you for your E-mail!'}
                     </form>
                 </div>
             </div>

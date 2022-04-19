@@ -14,7 +14,7 @@ const About = () => {
             </div>
 
             <div className='a-right'>
-                <h1 className='a-title'>About Me </h1>
+                <h1 className='a-title'>About Me 🧑‍💻 </h1>
                 <p className='a-sub'>
                     I come from an INTENSIVE data analytical financial background. I have spent the better part of my twenties in capital markets, hedge funds, and entrepreneurship.
                 </p>
@@ -38,7 +38,7 @@ const About = () => {
                     <div className='a-award-texts'>
                         <h4 className='a-award-title'>Best Agile Development Award</h4>
                         <p className='a-award-desc'>
-                           The University of Toronto had given this award to my team for our amazing agile development team work collaboration. We outperformed several development teams despite having team members across time zones! This led the University to award us for our ability to maintian high level collaboration.
+                           The University of Toronto had given this award to my team for our amazing agile development team work collaboration. We outperformed several development teams despite having team members across time zones! This led the University to award us for our ability to maintain high level collaboration.
                         </p>
                     </div>
                 </div>

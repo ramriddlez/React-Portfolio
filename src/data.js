@@ -1,32 +1,23 @@
+
 export const products = [
     {
         id: 1,
-        img: 'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
+        sourcecode: 'https://github.com/ramriddlez/Marvel-Wiki/',
+        img: 'https://i.postimg.cc/zX7NMKRv/Hive-Mind.png', 
+        link: 'https://sevaggap.github.io/Marvel-Comics-Wiki/',
     },
     {
         id: 2,
-        img:'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
+        sourcecode: 'https://github.com/ramriddlez/Hive-Mind/',
+        img: 'https://i.postimg.cc/wBVDRWtH/Hive-Mind-1.png' , 
+        link: 'https://hivemind-442.herokuapp.com/',
     },
     {
         id: 3,
-        img:'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
+        sourcecode: 'https://github.com/ramriddlez/HomeSlice',
+        img:'https://i.postimg.cc/9fnZBDBN/Hive-Mind-2.png', 
+        link: 'https://project-homeslice.herokuapp.com/',
     },
-    {
-        id: 4,
-        img:'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
-    },
-    {
-        id: 5,
-        img:'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
-    },
-    {
-        id: 6,
-        img:'https://i.ibb.co/qBZhdsx/marvel-wiki.jpg', 
-        link: 'https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Project-1-Interactive-Front-End-Application/',
-    },
+
 ]
+
